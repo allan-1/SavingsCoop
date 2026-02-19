@@ -6,7 +6,6 @@
 //
 
 
-// MARK: - Create Goal Form (Screenshot 2 Style)
 struct AddGoalView: View {
     @Environment(\.dismiss) var dismiss
     @ObservedObject var viewModel: SavingsViewModel
